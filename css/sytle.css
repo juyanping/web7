@@ -1,0 +1,7 @@
+body{font-style:Arial; font-size: 12px; color:gray; line-height: 2em }
+a{color:#727272; text-decoration: none;}
+a:hover{text-decoration: underline}
+.p{font-style:bolder; font-size: 14px; color:#b9f605;}
+.a{color:white;}
+.a:hover{text-decoration: none; color:#b9f605;}
+.special{color:#fdb306;}
